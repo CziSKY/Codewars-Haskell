@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               CodeWars-Haskell
+name:               Codewars-Haskell
 version:            0.1.0.0
 
 -- A short (one-line) description of the package.
@@ -21,7 +21,7 @@ maintainer:         c@skymc.me
 -- category:
 extra-source-files: CHANGELOG.md
 
-executable CodeWars-Haskell
+executable Codewars-Haskell
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
