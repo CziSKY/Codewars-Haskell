@@ -1,5 +1,4 @@
-module Codewars.Kata.DNA where
-import Codewars.Kata.DNA.Types
+module DNA where
 
 data Base = A | T | G | C
     deriving Show

@@ -1,6 +1,6 @@
-{-# OPTIONS_GHC -Wno-incomplete-patterns #-}
-
 module Main where
+
+import Data.Char (isDigit)
 
 main :: IO ()
 main = putStrLn "Hello, Haskell!"
