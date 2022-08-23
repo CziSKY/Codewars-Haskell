@@ -1,6 +1,7 @@
 {-# OPTIONS_GHC -Wno-unrecognised-pragmas #-}
 {-# HLINT ignore "Use mapMaybe" #-}
 module Disemvowel where
+    
 import Data.Char (toLower)
 import Data.Maybe (catMaybes)
 
